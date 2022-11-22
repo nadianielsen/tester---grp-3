@@ -1,7 +1,6 @@
 const Img = () => {
-    return ( 
-        <></>
-     );
-}
- 
+    return (    
+        <>
+        
+        </>
 export default Img;
